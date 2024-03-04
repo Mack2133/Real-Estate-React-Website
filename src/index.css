@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600&family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+
+* {
+    color: #2c3342 !important;
+}
+
+body {
+    background-color: rgb(212, 212, 212);
+    min-height: 100vh;
+}
+
+.btn {
+    background-color: #00deb6 !important;
+    border: none !important;
+}
+
+.btn:hover {
+    background-color: #00ecc1f2 !important;
+}

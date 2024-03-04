@@ -1,0 +1,174 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "floorPlan":"/src/assets/floor-1.jpeg",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "picture": ["/src/assets/1.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.674420661759!2d0.07950867672247199!3d51.39066161922454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1704876858764!5m2!1sen!2slk",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "floorPlan":"/src/assets/floor-2.jpeg",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+      "location": "Crofton Road Orpington BR6",
+      "picture": ["/src/assets/2.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.614072423741!2d0.0695514767215617!3d51.37339112048423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%20BR6%2C%20UK!5e0!3m2!1sen!2slk!4v1704877371833!5m2!1sen!2slk",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "Apartment",
+      "floorPlan":"/src/assets/floor-5.jpeg",
+      "bedrooms": 1,
+      "price": 250000,
+      "tenure": "Leasehold",
+      "description": "Charming one-bedroom apartment in the heart of the city. This modern unit features an open-plan kitchen and living area, a spacious bedroom, and a stylish bathroom. Conveniently located near public transport and trendy cafes.",
+      "location": "City Center, London BR65",
+      "picture": ["/src/assets/3.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.25971985129!2d-0.13748112445980373!3d51.507438004599564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ce37bbdb95%3A0x5120415568fd2d8b!2sCentral%20London%2C%20London%20SW1A%202DR%2C%20UK!5e0!3m2!1sen!2slk!4v1704878031974!5m2!1sen!2slk",
+      "added": {
+        "month": "November",
+        "day": 5,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "House",
+      "floorPlan":"/src/assets/floor-1.jpeg",
+      "bedrooms": 4,
+      "price": 980000,
+      "tenure": "Freehold",
+      "description": "Spacious four-bedroom family home with a large garden. This property offers a modern kitchen, two reception rooms, and a home office. The master bedroom includes an en-suite bathroom. Close to schools, parks, and local amenities.",
+      "location": "Green Lane, Bromley BR88",
+      "picture": ["/src/assets/4.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.25971985129!2d-0.13748112445980373!3d51.507438004599564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ce37bbdb95%3A0x5120415568fd2d8b!2sCentral%20London%2C%20London%20SW1A%202DR%2C%20UK!5e0!3m2!1sen!2slk!4v1704878093837!5m2!1sen!2slk",
+      "added": {
+        "month": "December",
+        "day": 8,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "Flat",
+      "floorPlan":"/src/assets/floor-1.jpeg",
+      "bedrooms": 3,
+      "price": 550000,
+      "tenure": "Leasehold",
+      "description": "Modern three-bedroom flat with stunning city views. The open-plan living area leads to a private balcony. The building offers concierge service and secure parking. Close to public transport and shopping centers.",
+      "location": "High Street, Croydon BR14",
+      "picture": ["/src/assets/5.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.7634339288657!2d-0.10265162327855432!3d51.37064552068435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487607314c40f4d5%3A0xdcdb38df71d82fc6!2sHigh%20St%2C%20Croydon%2C%20UK!5e0!3m2!1sen!2slk!4v1704878187212!5m2!1sen!2slk",
+      "added": {
+        "month": "October",
+        "day": 20,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop6",
+      "type": "Townhouse",
+      "floorPlan":"/src/assets/floor-2.jpeg",
+      "bedrooms": 5,
+      "price": 1200000,
+      "tenure": "Freehold",
+      "description": "Elegant five-bedroom townhouse with a private garden. This property features a spacious kitchen, multiple reception rooms, and a home gym. Close to schools, parks, and public transportation.",
+      "location": "Grove Street, Beckenham BR10",
+      "picture": ["/src/assets/1.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.519510512441!2d-0.035699523277374606!3d51.393508419016975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487601b224095a09%3A0xe9ed2bd4aaa3792a!2sErnest%20Grove%2C%20Beckenham%2C%20UK!5e0!3m2!1sen!2slk!4v1704878245250!5m2!1sen!2slk",
+      "added": {
+        "month": "January",
+        "day": 3,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop7",
+      "type": "Apartment",
+      "floorPlan":"src/assets/floor-3.jpeg",
+      "bedrooms": 2,
+      "price": 350000,
+      "tenure": "Leasehold",
+      "description": "Modern two-bedroom apartment with panoramic river views. The property includes a stylish kitchen, a bright living room, and en-suite bathrooms. Conveniently located near public transport and local amenities.",
+      "location": " Ufford St, London, UK BR21",
+      "picture": ["/src/assets/2.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2559.2938405619184!2d-0.10768197298796568!3d51.50264445432354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2slk!4v1704878405745!5m2!1sen!2slk",
+      "added": {
+        "month": "February",
+        "day": 15,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop8",
+      "type": "House",
+      "floorPlan":"src/assets/floor-4.jpeg",
+      "bedrooms": 3,
+      "price": 680000,
+      "tenure": "Freehold",
+      "description": "Charming three-bedroom cottage with a picturesque garden. This property offers a cozy living room, a country-style kitchen, and a sunroom. Close to village shops, schools, and parks.",
+      "location": "Meadow Lane, Sevenoaks BR11",
+      "picture": ["/src/assets/3.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96002.98829568921!2d0.2588000476270568!3d51.35462831589973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8b4c03b3f0e3d%3A0x58585151bd0ebe0b!2sMeadow%20Ln%2C%20New%20Ash%20Green%2C%20Longfield%2C%20UK!5e0!3m2!1sen!2slk!4v1704878542472!5m2!1sen!2slk",
+      "added": {
+        "month": "March",
+        "day": 10,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop9",
+      "type": "Flat",
+      "floorPlan":"/src/assets/floor-5.jpeg",
+      "bedrooms": 1,
+      "price": 220000,
+      "tenure": "Leasehold",
+      "description": "Compact one-bedroom flat with a modern interior. The property features an open-plan kitchen and living area, a double bedroom, and a contemporary bathroom. Ideal for first-time buyers.",
+      "location": "Station Road, Sidcup BR17",
+      "picture": ["/src/assets/4.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.4662838596355!2d0.09966717672451864!3d51.43123011626483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8aea9d12c7be7%3A0x152f1feac99147a1!2sStation%20Rd%2C%20Sidcup%2C%20UK!5e0!3m2!1sen!2slk!4v1704878581063!5m2!1sen!2slk",
+      "added": {
+        "month": "April",
+        "day": 22,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop10",
+      "type": "Townhouse",
+      "floorPlan":"/src/assets/floor-1.jpeg",
+      "bedrooms": 4,
+      "price": 900000,
+      "tenure": "Freehold",
+      "description": "Modern four-bedroom townhouse with a rooftop terrace. This property offers a contemporary kitchen, spacious living areas, and a home office. Close to trendy cafes, shops, and public transport.",
+      "location": "Market Street, Bexleyheath BR55",
+      "picture": ["/src/assets/5.jpg", "/src/assets/2.jpg", "/src/assets/3.jpg", "/src/assets/4.jpg", "/src/assets/5.jpg"],
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.8016582896316!2d0.21604677672514278!3d51.443436315373965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8b191a213d487%3A0xe6edb803208c52e4!2sMarket%20St%2C%20Dartford%2C%20UK!5e0!3m2!1sen!2slk!4v1704878633713!5m2!1sen!2slk",
+      "added": {
+        "month": "May",
+        "day": 18,
+        "year": 2023
+      }
+    }
+  ]
+}
