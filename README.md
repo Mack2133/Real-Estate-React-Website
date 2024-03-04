@@ -12,6 +12,7 @@
  - Advanced Search Filtering
  - Drag & Drop
  - Add to favourites
+ - Google Maps
 
 ### Website Sample Images
 
