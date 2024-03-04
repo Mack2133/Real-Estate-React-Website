@@ -13,6 +13,7 @@
  - Drag & Drop
  - Add to favourites
  - Google Maps
+ - Responsive Design
 
 ### Website Sample Images
 
