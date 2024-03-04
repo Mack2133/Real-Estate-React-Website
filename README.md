@@ -13,4 +13,11 @@
  - Drag & Drop
  - Add to favourites
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+### Website Sample Images
+
+![](https://github.com/Mack2133/Real-Estate-React-Website/blob/main/Screenshot%202024-03-04%20at%2010.37.35%E2%80%AFPM.png?raw=true)
+![](https://github.com/Mack2133/Real-Estate-React-Website/blob/main/Screenshot%202024-03-04%20at%2010.37.53%E2%80%AFPM.png?raw=true)
+![](https://github.com/Mack2133/Real-Estate-React-Website/blob/main/Screenshot%202024-03-04%20at%2010.38.13%E2%80%AFPM.png?raw=true)
+![](https://github.com/Mack2133/Real-Estate-React-Website/blob/main/Screenshot%202024-03-04%20at%2010.38.28%E2%80%AFPM.png?raw=true)
+
+
