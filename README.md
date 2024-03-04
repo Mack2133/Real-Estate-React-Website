@@ -2,6 +2,7 @@
 
 ### Technologies used in the project: 
  - React js
+ - React Routes
  - JSX
  - Boostrap
  - React Tabs
