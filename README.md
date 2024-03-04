@@ -1,9 +1,15 @@
-# React + Vite
+# Real Estate Website using React JS & Boostrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Technologies used in the project: 
+ - React js
+ - JSX
+ - Boostrap
+ - React Tabs
+ - React Widgets
 
-Currently, two official plugins are available:
+### Functionalities added to the website:
+ - Advanced Search Filtering
+ - Drag & Drop
+ - Add to favourites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Real-Estate-React-Website
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
